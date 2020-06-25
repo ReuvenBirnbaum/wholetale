@@ -131,7 +131,6 @@ dmypy.json
 # data
 *.csv
 *.db
-*.png
 
 # Resources
 readings
