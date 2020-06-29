@@ -129,9 +129,11 @@ dmypy.json
 .pyre/
 
 # data
-*.csv
 *.db
+
 
 # Resources
 readings
 tmp
+HypDB
+PWE-demos-master
